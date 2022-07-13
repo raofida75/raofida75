@@ -4,6 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/raofida75/raofida75/blob/main/LOGO.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raofida75&label=Profile%20views&color=0e75b6&style=flat" alt="raofida75" /> </p>
 
+- I am a data scientist who loves learning new things and solving problems. And this whole new world is full of them.
+
 - 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning**
