@@ -1,12 +1,12 @@
 [![MasterHead](https://github.com/raofida75/raofida75/blob/main/Banner.jpg)](https://raofida75.io)
 <h1 align="center">Hi 👋, I'm Fida Hussain Rao</h1>
-<h3 align="center">A self taught Data Scientist from Pakistan</h3>
+<h3 align="center">A Data Scientist from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/raofida75/raofida75/blob/main/LOGO.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raofida75&label=Profile%20views&color=0e75b6&style=flat" alt="raofida75" /> </p>
 
 - I am a data scientist who loves learning new things and solving problems. And this whole new world is full of them.
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently working as a **Data Analyst**
 
 - 💬 Ask me about **Data Science, Machine Learning, Deep Learning**
 
@@ -14,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rao_fida750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rao_fida750" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fidahussain-rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fidahussain-rao" height="30" width="40" /></a>
 <a href="https://kaggle.com/fidahussainrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fidahussainrao" height="30" width="40" /></a>
 </p>
